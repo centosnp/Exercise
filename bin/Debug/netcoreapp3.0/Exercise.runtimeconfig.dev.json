@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/pysantosh/.dotnet/store/|arch|/|tfm|",
+      "/home/pysantosh/.nuget/packages"
+    ]
+  }
+}

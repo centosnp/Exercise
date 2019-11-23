@@ -1,0 +1,11 @@
+/home/pysantosh/Desktop/dotnet/Exercise/obj/Debug/netcoreapp3.0/Exercise.csprojAssemblyReference.cache
+/home/pysantosh/Desktop/dotnet/Exercise/obj/Debug/netcoreapp3.0/Exercise.AssemblyInfoInputs.cache
+/home/pysantosh/Desktop/dotnet/Exercise/obj/Debug/netcoreapp3.0/Exercise.AssemblyInfo.cs
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise.deps.json
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise.runtimeconfig.json
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise.runtimeconfig.dev.json
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise.dll
+/home/pysantosh/Desktop/dotnet/Exercise/bin/Debug/netcoreapp3.0/Exercise.pdb
+/home/pysantosh/Desktop/dotnet/Exercise/obj/Debug/netcoreapp3.0/Exercise.dll
+/home/pysantosh/Desktop/dotnet/Exercise/obj/Debug/netcoreapp3.0/Exercise.pdb
